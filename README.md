@@ -1,6 +1,6 @@
 <h1 align="center">Hei 👋, mitt navn er Jabriil Osman</h1>
 <h3 align="center">Jeg har bachelor i IT og Informasjonssytemer</h3>
-<img allign="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1691528063~exp=1691528663~hmac=c6bf938ed8d6b527a4e210415c8bb3eb74237121a18e56d3c50df5acb5263588"
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1691528063~exp=1691528663~hmac=c6bf938ed8d6b527a4e210415c8bb3eb74237121a18e56d3c50df5acb5263588"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabriilosman&label=Profile%20views&color=0e75b6&style=flat" alt="jabriilosman" /> </p>
 
