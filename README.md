@@ -9,6 +9,6 @@ I mostly work with React, JavaScript, Java and Python. I've also tried out Ardui
 
 Fun facts:
 
-- I play football and volleyball ⚡
-- I volunteered at JavaZone, Northern Europe's biggest developer conference
+- I love to play football and volleyball with friends ⚡
+- I volunteered at JavaZone, Northern Europe's biggest developer conference 🔭 
 - I'm currently looking for my first job in tech 🌱
