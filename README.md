@@ -1,6 +1,4 @@
 ## Hi there 👋
-Hey there! 👋
-
 I'm Jibriil, a developer and designer based in Oslo, Norway.
 
 I recently finished my master's in Informatics: Design, Use and Interaction at the University of Oslo, after a bachelor's in IT and Information Systems.
